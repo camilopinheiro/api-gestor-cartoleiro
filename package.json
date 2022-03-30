@@ -1,0 +1,22 @@
+{
+  "name": "api-gestor-cartoleiro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilopinheiro/api-gestor-cartoleiro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilopinheiro/api-gestor-cartoleiro/issues"
+  },
+  "homepage": "https://github.com/camilopinheiro/api-gestor-cartoleiro#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
